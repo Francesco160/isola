@@ -1,0 +1,331 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.immagine {
+    width: 1250px;
+    padding-left: 100px;
+
+      
+
+    
+}
+header {
+    display: flex;
+    border-bottom: 1px solid;
+    align-items: center;
+    
+    
+    
+}
+#icone{
+    display: flex;
+    flex-direction: row;
+}
+#icone :first-child{
+    margin-right: 20px;
+}
+#icone :nth-child(3){
+    margin-left: 20px;
+}
+.resume{
+    border: 2px solid;
+    border-width: 1px;
+    border-radius: 45px;
+    font-size: 15px;
+    margin-left: 60px;
+
+    
+}
+#t{
+   padding-left: 30px;
+}
+.following {
+    
+    padding-left: 100px;
+    display: flex;
+    width: 350px;
+    justify-content:space-between;
+    padding-top: 100px;
+    border-bottom: groove;
+}
+.siga {
+    width: 160px;
+    padding-left: 100px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+}
+.flex{
+    padding-left: 100px;
+    display: flex;
+    width: 1000px;
+    gap: 20px;
+}
+ #medium{
+    display: flex;
+    justify-content: end;
+    
+    
+    
+    
+     
+    
+    
+}
+#persona{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+   
+   
+}
+h4 {
+    
+   
+}
+.tuoi i{
+    position: relative;
+    left: 90px;
+
+}
+#medium i{
+    font-size: 20px;
+    
+    
+    
+    
+
+    
+}
+.siga img{
+    width: 40px;
+}
+.colonnadestra p{
+    color: gray;
+
+}
+.immagin img{
+       
+}
+
+.lorem span {
+    border: 1px solid;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 20px;
+    background-color: gray;
+    
+}
+.lorem i{
+    position: relative;
+    left: 650px;
+    top: -35px;
+    
+}
+#boh p{
+    padding-top: 50px;
+    
+    
+
+
+}
+.colonna2 a{
+    margin-top: 40px;
+    margin-left: 50px;
+    color: gray;
+}
+.conte{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    gap: 40px;
+ }
+.colonna2{
+    width: 40%;
+}
+.colonna1{
+    width: 60%;
+    border-right: groove;
+}
+h2{
+    padding-top: 100px;
+    margin-left: -150px;
+}
+#boh{
+    
+    
+       
+}
+#boh i{
+    margin-right: 10px;
+    margin-top: 50px;
+    font-size: 20px;
+    position: relative;
+    left: -30px;
+}
+.ab {
+    position: relative;
+    top: 20px;
+    left: -20px;
+    
+}
+#boh span{
+    display: inline-block;       
+    padding: 6px 12px;            
+    border: 1px solid ;  
+    border-radius: 25px;           
+    font-size: 14px;              
+     text-align: center;
+     position: relative;
+     left: -30px;
+}
+.lista p{
+     display: inline-block;
+     border: 1px solid;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 20px;
+    background-color: gray;
+    
+    
+}
+.lista {
+position: relative;
+left: -160px;
+    
+}
+.fumo img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: relative;
+    left: -150px;
+    
+}
+.fumo h5{
+    position: relative;
+    left: -100px;
+    top: -50px;
+}
+.fumo p{
+    position: relative;
+    left: -100px;
+    top: -60px;
+    color: gray;
+}
+.fumo span{
+    position: relative;
+    right: -250px;
+    top: -120px;
+    border: 1px solid;
+    border-radius: 25px;
+    padding: 10px;
+}
+.fumo1{
+    position: relative;
+    top: -70px;
+}
+.fumo2{
+    position: relative;
+    top: -130px;
+}
+.iso img{
+    width: 30px;
+    height: 30px;
+}
+.eva{
+     position: relative;
+     top: -290px;
+}
+.eva img{
+    position: relative;
+    left: -150px;
+    
+}
+.eva p{
+    position: relative;
+    left: -110px;
+    top: -40px;
+
+}
+.eva h3{
+    position: relative;
+    left: -150px;
+    top: -40px;
+    margin: 0;
+}
+.eva :nth-child(5){
+    color: gray;
+    position: relative;
+    left: -150px;
+}
+.eva i{
+    position: relative;
+    top: -76px;
+    left: 20px;
+    color: gray;
+    font-size: 10px !important;
+}
+.adamo img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: relative;
+    top: -50px;
+}
+.adamo p{
+    position: relative;
+    top: -100px;
+    padding-left: 10px;
+}
+.adamo h2{
+    position: relative;
+    top: -200px;
+    left: 10px;
+}
+.adamo span{
+    position: relative;
+    top: -210px;
+    left: -140px;
+    color: gray;
+}
+.adamo h4{
+    position: relative;
+    top: -200px;
+    text-indent: 15px;
+    color: green;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    position: relative;
+    display: flex;
+    align-items: center;
+    
+
+}
+li{
+    margin: 10px;
+    position: relative;
+    top: -400px;
+    left: -190px;
+    color: gray;
+    
+    
+    
+    
+}
+.parola span{
+    position: relative;
+    left: -65px;
+}
+.capo1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+.capo{
+      flex-basis: 40%;
+}
